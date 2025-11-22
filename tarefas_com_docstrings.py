@@ -1,6 +1,6 @@
 """
 Sistema de Gestão de Tarefas
-Disciplina: Técnicas de Desenvolvimento de Algorítmos
+Disciplina: Técnicas de Desenvolvimento de Algoritmos
 Desenvolvido por: Vitor Julião Diogo dos Santos e Guilherme Trajane da Silva
 
 Sistema para gerenciamento de tarefas com prioridades, status e armazenamento em JSON.
