@@ -1,7 +1,7 @@
 """
-Sistema de Gerenciamento de Tarefas
-Disciplina: [Nome da Disciplina]
-Desenvolvido por: [Nomes dos Integrantes do Grupo]
+Sistema de Gestão de Tarefas
+Disciplina: Técnicas de Desenvolvimento de Algorítmos
+Desenvolvido por: Vitor Julião Diogo dos Santos e Guilherme Trajane da Silva
 
 Sistema para gerenciamento de tarefas com prioridades, status e armazenamento em JSON.
 """
